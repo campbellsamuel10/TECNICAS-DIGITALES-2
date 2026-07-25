@@ -1,0 +1,8 @@
+../Drivers/API/Src/API_GPIO.c:24:13:API_GPIO_Escribir_Pin	1
+../Drivers/API/Src/API_GPIO.c:28:13:API_GPIO_Toggle_Pin	1
+../Drivers/API/Src/API_GPIO.c:32:22:API_GPIO_Leer_Boton	1
+../Drivers/API/Src/API_GPIO.c:38:6:API_GPIO_Init	1
+../Drivers/API/Src/API_GPIO.c:43:6:API_GPIO_Apagar_LEDs	1
+../Drivers/API/Src/API_GPIO.c:47:6:API_GPIO_Delay	1
+../Drivers/API/Src/API_GPIO.c:51:6:API_GPIO_Boton_Presionado	4
+../Drivers/API/Src/API_GPIO.c:66:6:API_GPIO_Ejecutar_Frecuencia	2
