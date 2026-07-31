@@ -1,0 +1,8 @@
+../Drivers/API/Src/API_GPIO.c:38:6:API_GPIO_Init	8	static
+../Drivers/API/Src/API_GPIO.c:55:6:API_GPIO_Apagar_LEDs	8	static
+../Drivers/API/Src/API_GPIO.c:59:6:API_GPIO_Boton_Presionado	16	static
+../Drivers/API/Src/API_GPIO.c:81:13:Secuencia_1	8	static
+../Drivers/API/Src/API_GPIO.c:105:13:Secuencia_2	8	static
+../Drivers/API/Src/API_GPIO.c:111:13:Secuencia_3	8	static
+../Drivers/API/Src/API_GPIO.c:123:13:Secuencia_4	8	static
+../Drivers/API/Src/API_GPIO.c:139:6:API_GPIO_Ejecutar_Secuencia	16	static
