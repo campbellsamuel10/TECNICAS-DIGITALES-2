@@ -1,0 +1,10 @@
+../Core/Src/main.c:76:5:main	16	static
+../Core/Src/main.c:147:13:apagarTodosLosLeds	8	static
+../Core/Src/main.c:157:13:inicializarSecuencia	16	static
+../Core/Src/main.c:196:13:ejecutarSecuencia1	8	static
+../Core/Src/main.c:215:13:ejecutarSecuencia2	8	static
+../Core/Src/main.c:228:13:ejecutarSecuencia3	8	static
+../Core/Src/main.c:249:13:ejecutarSecuencia4	8	static
+../Core/Src/main.c:265:6:SystemClock_Config	88	static
+../Core/Src/main.c:312:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:342:6:Error_Handler	4	static,ignoring_inline_asm
